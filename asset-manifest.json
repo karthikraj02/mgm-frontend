@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42ba5ac2.css",
+    "main.js": "/static/js/main.6e259206.js",
+    "static/media/Rani-Abbakka-Program.jpg": "/static/media/Rani-Abbakka-Program.704ae63077fe9c01abbc.jpg",
+    "static/media/Elixir2K25.JPG": "/static/media/Elixir2K25.c8c987c8ad67aac3f663.JPG",
+    "static/media/Cluster2k25.JPG": "/static/media/Cluster2k25.f14e4490d38d3d20adcf.JPG",
+    "static/media/Spectrum2K24.JPG": "/static/media/Spectrum2K24.892791f13131652067a5.JPG",
+    "static/media/Morning-BCA-Session.JPG": "/static/media/Morning-BCA-Session.4ab914ee2c63089a8f8b.JPG",
+    "static/media/ta.jpg": "/static/media/ta.fae54537ef72c9f55a7b.jpg",
+    "static/media/place.jpg": "/static/media/place.c6bfed517082efc38476.jpg",
+    "static/media/ino.jpg": "/static/media/ino.00e878b7a1226de73952.jpg",
+    "static/media/amruthamahotsava.jpg": "/static/media/amruthamahotsava.f7133a249a435d70771c.jpg",
+    "static/media/dep.jpg": "/static/media/dep.f1ff7636a9a3f291ca57.jpg",
+    "static/media/campus.jpg": "/static/media/campus.fce6854f134f5e55309b.jpg",
+    "static/media/stu.jpg": "/static/media/stu.285398409ef03f8e7d30.jpg",
+    "static/media/math.jpg": "/static/media/math.f4ce9abd46d9977fadbc.jpg",
+    "static/media/fac.jpg": "/static/media/fac.72185096757d68e126eb.jpg",
+    "static/media/tmapai.jpg": "/static/media/tmapai.a352fb27e8932b66840a.jpg",
+    "static/media/mgm.png": "/static/media/mgm.40abf25e570596a73fc5.png",
+    "index.html": "/index.html",
+    "main.42ba5ac2.css.map": "/static/css/main.42ba5ac2.css.map",
+    "main.6e259206.js.map": "/static/js/main.6e259206.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42ba5ac2.css",
+    "static/js/main.6e259206.js"
+  ]
+}
